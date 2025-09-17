@@ -131,6 +131,3 @@ for item in os.listdir('/content'):
 - The `pydub` library supports both MP3 and WAV formats. The merged audio will be saved as a WAV file.  
 - If the website experiences downtime or changes in its interface, the notebook may require updates.  
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
